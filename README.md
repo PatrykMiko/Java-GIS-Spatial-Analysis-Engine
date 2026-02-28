@@ -1,5 +1,7 @@
 # Java GIS & Spatial Analysis Engine
 
+![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![GIS](https://img.shields.io/badge/GIS-Spatial_Analysis-1572B6?style=for-the-badge&logo=map&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-Tested-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
 A lightweight, dependency-free Java library designed for processing geographic data, analyzing spatial relationships, and parsing complex CSV datasets. 
 
 This project demonstrates how to build high-performance spatial querying systems and robust file parsers entirely from scratch using pure Java (Standard Library).
